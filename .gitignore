@@ -5,3 +5,4 @@
 *.session-journal
 test.py
 todo.txt
+venv/
